@@ -1,0 +1,110 @@
+Question #,Question Prompt,Answer Choices,Correct Answer Choice
+1.1,"_____ cells contain two copies of each chromosome, while ____ cells contain one copy of each chromosome","1. haploid; diploid 
+2. diploid; haploid 
+3. monoploid; diploid","2- diploid; haploid
+"
+1.2,"During meiosis, duplicated chromosomes are called _______.","1. homologous chromosomes
+2. sister chromatids
+3. autosomes
+4. sex chromosomes 
+5. alleles","2- sister chromatids
+"
+1.3,Which of the following statements about meiosis are true? Select all that apply.,"1. homologous chromosomes are separated during the first meiotic division 
+2. sister chromatids are separated during the second meiotic division
+3. a single diploid cell undergoing meiosis can produce four haploid cells 
+4. homologous chromosomes contain the same genes, but can have different
+alleles","1- Homologous chromosomes are separated during the first meiotic division;  2- Sister chromatids are separated during the second meiotic division; 3- A single diploid cell undergoing meiosis can produce four haploid cells; 4- Homologous chromosomes contain the same genes, but can have different alleles."
+1.5,Which statements about dominant and recessive phenotypes are true? Select all that apply.,"1. Dominant phenotypes are always wild-type while recessive phenotypes are caused by mutations.
+2. Dominant phenotypes are expressed in both homozygotes and heterozygotes. 
+3. Recessive phenotypes are only expressed in heterozygotes and not in homozygotes.
+4. Homozygosity and heterozygosity only apply to diploid organisms and not to haploid organisms.",2- Dominant phenotypes are expressed in both homozygotes and heterozygotes; 4- Homozygosity and heterozygosity only apply to diploid organisms and not to haploid organisms.
+2.1,"iA , iB , and iO are three possible genotypes of the ABO gene.","1. True
+2. False",2- false
+2.2,You can unambiguously determine the genotype for the ABO gene of individuals with either an AB or O blood type.,"1. True
+2. False",1- true
+2.3,An individual with the B blood type and a homozygous genotype and an individual with the O blood type would produce progeny that are 100% B blood type.,"1. True
+2. False",1- true
+2.4,"An individual with the doubly heterozygous genotype iB iO, RhD+ RhD-
+can produce the four different gametes with the following genotypes:
+• iB, RhD+
+• iB, RhD-
+• iO, RhD+
+• iO, RhD-","1. True
+2. False","1- true
+"
+3.2,"Pepper plants can either be tall or short. Plant height is determined by a single gene, which we will call the height gene. These plants can either be allowed to self-fertilize, or can be crossed with another plant. You have true-breeding (aka pure-breeding) tall and short plants available.
+
+Use the letters H or h to represent the alleles for plant height. Use the uppercase letter to denote the allele encoding the dominant phenotype and the lowercase letter to denote the allele encoding the recessive phenotype.
+
+You set up a single cross that allows you to experimentally determine that the tall phenotype is dominant in pepper plants.
+
+You have two pepper plants that you are interested in testing: plant 1 and plant 2. Both plant 1 and plant 2 are tall. You cross plant 1 and plant 2 with each other and observe that all 100 progeny are tall.
+Which of the following statements is FALSE? Select the best answer.","1. Plant 1 and Plant 2 are both true-breeding.
+2. Both Plant 1 and Plant 2 have the genotype Hh.
+3. Plant 1 is true-breeding, and Plant 2 is Hh.
+4. Plant 1 is Hh, and Plant 2 is true-breeding.","2- Both Plant 1 and Plant 2 have the genotype Hh.
+"
+3.3,"Pepper plants can either be tall or short. Plant height is determined by a single gene, which we will call the height gene. These plants can either be allowed to self-fertilize, or can be crossed with another plant. You have true-breeding (aka pure-breeding) tall and short plants available.
+
+Use the letters H or h to represent the alleles for plant height. Use the uppercase letter to denote the allele encoding the dominant phenotype and the lowercase letter to denote the allele encoding the recessive phenotype.
+
+You set up a single cross that allows you to experimentally determine that the tall phenotype is dominant in pepper plants.
+
+You decide to observe another trait in your study of pepper plants -
+pepper color. In your plants the color red is dominant (R), while the color yellow is
+recessive (r), controlled by a single gene.
+
+The plant you are working with is a red, tall pepper plant, but you are not sure if it is true-breeding or not.
+Which of the following plants should you cross with your red, tall pepper plant in order to
+identify whether your red, tall plant is true-breeding? Select the best answer.","1. RRHH
+2. RrHh
+3. rrHH 
+4. RRhh 
+5. rrhh",5- rrhh
+3.4,"Which of the following results of the cross described in the prior question (Q3.3) would indicate that your red, tall pepper plant is homozygous for both the height and pepper color genes? Select the best answer.","1. All progeny are red and tall.
+2. All progeny plants are yellow and short.
+3. The progeny display all FOUR possible combinations of red/yellow pepper color
+and short/tall height.","1- All progeny are red and tall.
+"
+3.5,"Which of the following results of the cross described in Q3.3 would indicate that your red, tall pepper plant is heterozygous for both the height and pepper color genes? Select the best answer.","1. All progeny are red and tall.
+2. All progeny plants are yellow and short.
+3. The progeny display all FOUR possible combinations of red/yellow pepper color
+and short/tall height.","3- The progeny display all FOUR possible combinations of red/yellow pepper color and short/tall height.
+"
+3.6,"You cross a red, tall plant with a red, short plant and observe plants of all four phenotypes among the progeny.
+What genotype must the red, tall plant have for the pepper color gene? Select the best answer.","1. RR
+2. Rr
+3. rr",2- Rr
+3.7,"You cross a red, tall plant with a red, short plant and observe plants of all four phenotypes among the progeny.
+What genotype must the red, tall plant have for the height gene? Select the best answer.","1. HH
+2. Hh
+3. hh",2- Hh
+3.8,"You cross a red, tall plant with a red, short plant and observe plants of all four phenotypes among the progeny.
+What genotype must the red, short plant have for the pepper color gene? Select the best answer.","1. RR
+2. Rr
+3. rr",2- Rr
+3.9,"You cross a red, tall plant with a red, short plant and observe plants of all four phenotypes among the progeny.
+What genotype must the red, short plant have for the height gene? Select the best answer.","1. HH
+2. Hh
+3. hh","3- hh
+"
+5.1,Which of the following features about meiosis in budding yeast is different compared to meiosis in other eukaryotic cells (such as humans)? Select the best answer.,"1. Diploid cells undergo meiosis.
+2. Haploid cells undergo meiosis.
+3. Meiosis produces four haploid cells.
+4. All of the cells produced by meiosis are physically kept together.
+","2- Haploid cells undergo meiosis.
+"
+5.2,"You have two haploid yeast strains: Strain A: pet3-, ADE1+
+Strain B: PET3+, ade1-
+Wild-type PET3+ yeast are large, whereas mutant pet3- yeast are small. Wild-type ADE1+ yeast are white, whereas mutant ade1- yeast are red. ADE1+ and PET3+ are unlinked.
+What is the phenotype of Strain A? Select the best answer.","1. Large, red
+2. Large, white 
+3. Small, red 
+4. Small, white
+","4- small, white
+"
+5.3,What is the phenotype of Strain B? Select the best answer.,"1. Large, red
+2. Large, white 
+3. Small, red 
+4. Small, white","1- large, red
+"
