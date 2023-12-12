@@ -1,0 +1,66 @@
+0,"_____ cells contain two copies of each chromosome, while ____ cells contain one copy of each chromosome","1. haploid; diploid 
+2. diploid; haploid 
+3. monoploid; diploid","Give the correct answer choice number to the following question
+_____ cells contain two copies of each chromosome, while ____ cells contain one copy of each chromosome
+ 1. haploid; diploid 
+2. diploid; haploid 
+3. monoploid; diploid"," The correct answer is 1. haploid cells contain one copy of each chromosome, while diploid cells contain two copies. During meiosis, the first division, or meiosis I, results in homologous chromosomes pairing and then separating, but each chromatid within a homologous chromosome pair remains intact. This is different from mitosis where the chromatids separate during metaphase. The second division of meiosis, or meiosis II, results in the separation of the sister chromatids within each homologous chromosome pair. Through this process, four haploid cells are produced, each with a unique combination of genetic material due to independent assortment and recombination events during meiosis.",True,True
+1,"During meiosis, duplicated chromosomes are called _______.","1. homologous chromosomes
+2. sister chromatids
+3. autosomes
+4. sex chromosomes 
+5. alleles","Give the correct answer choice number to the following question
+During meiosis, duplicated chromosomes are called _______.
+ 1. homologous chromosomes
+2. sister chromatids
+3. autosomes
+4. sex chromosomes 
+5. alleles"," The correct answer choice number to the question ""During meiosis, duplicated chromosomes are called _______."" is 2. sister chromatids.
+
+Explanation: In meiosis, homologous chromosomes pair up during prophase I and exchange genetic material through a process called crossing over, forming chiasmata. Each chromatid of a homologous chromosome is referred to as a sister chromatid. During meiosis I, sister chromatids separate and move to opposite poles, resulting in haploid daughter cells with unique combinations of genetic material due to crossing over and independent assortment.",True,True
+2,Which of the following statements about meiosis are true? Select all that apply.,"1. homologous chromosomes are separated during the first meiotic division 
+2. sister chromatids are separated during the second meiotic division
+3. a single diploid cell undergoing meiosis can produce four haploid cells 
+4. homologous chromosomes contain the same genes, but can have different
+alleles","Give the correct answer choice number to the following question
+Which of the following statements about meiosis are true? Select all that apply.
+ 1. homologous chromosomes are separated during the first meiotic division 
+2. sister chromatids are separated during the second meiotic division
+3. a single diploid cell undergoing meiosis can produce four haploid cells 
+4. homologous chromosomes contain the same genes, but can have different
+alleles"," The correct answer choices are:
+1. Homologous chromosomes are separated during the first meiotic division (meiosis I).
+2. Sister chromatids are separated during the second meiotic division (meiosis II).
+3. A single diploid cell undergoing meiosis can produce four haploid cells.
+4. Homologous chromosomes contain the same genes, but can have different alleles.
+5. During meiosis I, homologous chromosomes pair up and exchange genetic material through crossing over at chiasmata, resulting in genetic diversity among the daughter cells.
+6. A triploid nucleus cannot undergo normal meiosis due to an uneven number of chromosome sets, leading to sterility.",True,True
+3,Which statements about dominant and recessive phenotypes are true? Select all that apply.,"1. Dominant phenotypes are always wild-type while recessive phenotypes are caused by mutations.
+2. Dominant phenotypes are expressed in both homozygotes and heterozygotes. 
+3. Recessive phenotypes are only expressed in heterozygotes and not in homozygotes.
+4. Homozygosity and heterozygosity only apply to diploid organisms and not to haploid organisms.","Give the correct answer choice number to the following question
+Which statements about dominant and recessive phenotypes are true? Select all that apply.
+ 1. Dominant phenotypes are always wild-type while recessive phenotypes are caused by mutations.
+2. Dominant phenotypes are expressed in both homozygotes and heterozygotes. 
+3. Recessive phenotypes are only expressed in heterozygotes and not in homozygotes.
+4. Homozygosity and heterozygosity only apply to diploid organisms and not to haploid organisms."," The correct answer choices, considering the new context provided, are:
+2. Dominant phenotypes can be expressed by individuals who have at least one dominant allele for a given trait, regardless of whether it is wild-type or a mutant allele that produces the same phenotype. Recessive phenotypes, on the other hand, require the presence of two recessive alleles for the trait to be expressed.
+3. Recessive phenotypes are only expressed in homozygotes, meaning individuals who have two identical recessive alleles for a given trait, while dominant phenotypes can be expressed in both homozygotes and heterozygotes.
+4. Homozygosity and heterozygosity apply to the state of having one or two copies of a particular allele for a given trait in diploid organisms.
+5. Multiple alleles exist for many genes, which can result in multiple phenotypes, some of which may exhibit dominance over others or display intermediate traits when both dominant and recessive alleles are present (incomplete or codominance).
+6. In complete dominance, one allele masks the expression of the other allele, resulting in a uniform phenotype among homozygotes and heterozygotes for that trait. However, in cases of incomplete dominance or codominance, both alleles may be expressed to some degree in heterozygotes, leading to intermediate or distinct phenotypes, respectively.
+7. The phenotype is the observable traits of an organism resulting from both genetic and environmental factors, while the genotype refers to the specific genetic makeup that determines the phenotype.
+8. Heterozygosity refers to having different alleles for a given gene, while homozygosity means having identical alleles.
+9. Mendel's laws of inheritance, based on his experiments with pea plants, describe the patterns of inheritance for traits controlled by single genes and provide a foundation for understanding genetics.
+10. Codominance occurs when both alleles at a locus are expressed in heterozygotes, resulting in distinct phenotypes for each allele.
+11. Incomplete dominance is a phenomenon where the heterozygous phenotype is intermediate between the two homozygous phenotypes for a given trait.
+12. Codominant and incomplete dominant traits may reappear in subsequent generations when F1 hybrid organisms are interbred, as predicted by Mendel's laws of inheritance.
+
+Explanation: The new context provided more information on genetics concepts such as multiple alleles, codominance, incomplete dominance, and the importance of large sample sizes for accurate genetic data collection. It also discussed how dominant and recessive traits manifest in heterozygotes and how these phenomena fit into Mendel's laws of inheritance. The answer has been refined to include this new information while maintaining its original accuracy regarding dominant and recessive phenotypes in homozygotes and heterozygotes, as well as the applicability of homozygosity and heterozygosity concepts to diploid organisms.",True,True
+4,"iA , iB , and iO are three possible genotypes of the ABO gene.","1. True
+2. False","Give the correct answer choice number to the following question
+iA , iB , and iO are three possible genotypes of the ABO gene.
+ 1. True
+2. False"," 1. True
+
+Explanation: The context confirms that iA, iB, and iO are the three possible alleles of the ABO gene in humans.",True,True
