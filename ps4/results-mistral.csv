@@ -1,0 +1,63 @@
+0,"Archaea are the third domain of life and have molecular features that are either unique to archaea or are similar to either eukaryotes or prokaryotes. For the following features found in archaea, indicate whether they are similar to prokaryotes or eukaryotes.
+
+Archaea can contain a single circular chromosome, a feature commonly found in ____ (select the best answer):","Choice 1 of 2:prokaryotes
+
+Choice 2 of 2:eukaryotes","Give the correct answer choice number to the following question
+Archaea are the third domain of life and have molecular features that are either unique to archaea or are similar to either eukaryotes or prokaryotes. For the following features found in archaea, indicate whether they are similar to prokaryotes or eukaryotes.
+
+Archaea can contain a single circular chromosome, a feature commonly found in ____ (select the best answer):
+ Choice 1 of 2:prokaryotes
+
+Choice 2 of 2:eukaryotes"," Archaea, like prokaryotes, have a single circular chromosome. Therefore, the answer to the question is Choice 1 of 2: prokaryotes. However, it's important to note that archaea are distinct from both prokaryotes and eukaryotes in many aspects beyond their chromosomal organization, as they possess unique molecular features.",True,True
+1,"Archaea contain histone proteins, a feature commonly found in ____ (select the best answer):","Choice 1 of 2:prokaryotes
+
+Choice 2 of 2:eukaryotes","Give the correct answer choice number to the following question
+Archaea contain histone proteins, a feature commonly found in ____ (select the best answer):
+ Choice 1 of 2:prokaryotes
+
+Choice 2 of 2:eukaryotes"," The original answer is correct: Archaea do not contain histone proteins, they are a characteristic feature of eukaryotic cells.
+
+However, the new context discusses various mechanisms for controlling gene expression in eukaryotes and mentions transcription elongation as a new mechanism revealed by studies on HIV. However, this discussion does not provide any information relevant to the question about Archaea and histone proteins. Therefore, the original answer remains unchanged.",True,False
+2,"Archaea contain their genome in the cytoplasm, a feature commonly found in ____ (select the best answer):","Choice 1 of 2:prokaryotes
+
+Choice 2 of 2:eukaryotes","Give the correct answer choice number to the following question
+Archaea contain their genome in the cytoplasm, a feature commonly found in ____ (select the best answer):
+ Choice 1 of 2:prokaryotes
+
+Choice 2 of 2:eukaryotes"," The correct answer is Choice 1: prokaryotes. Archaea do not contain their genome in the cytoplasm like eukaryotes or bacteria, but instead have a nucleoid region within the cytoplasm where their DNA is located. However, it's important to note that there are other ways for cells and organisms to regulate gene expression beyond the interaction of regulatory proteins with specific DNA sequences, as discussed in the text. One such way is epigenetic regulation through DNA methylation, which can affect large regions of chromosomes or even entire chromosomes and impact their transcriptional activity. This mechanism does not depend on specific DNA sequences but rather on modifications to the chromatin structure, which can silence genes by making them less accessible to the transcription machinery. The text provides an example of this in the context of X chromosome inactivation in mammals, where one of the two X chromosomes is largely silenced for transcription in each cell of a female.",True,True
+3,Which of the following statements about telomeres are true? Select all that apply.,"Choice 1 of 4:Telomerase extends the 5’ ends of DNA.
+Choice 2 of 4:Since telomeres are repeats of the sequence 5’-TTAGGG-3’, the RNA template carried by telomerase must contain 5’-CCCUAA-3’
+Choice 3 of 4:Telomeres serve as an important buffer between genes and chromosomal ends, preventing loss of genetic information.
+Choice 4 of 4:Increased telomerase expression inhibits cancer cell division.","Give the correct answer choice number to the following question
+Which of the following statements about telomeres are true? Select all that apply.
+ Choice 1 of 4:Telomerase extends the 5’ ends of DNA.
+Choice 2 of 4:Since telomeres are repeats of the sequence 5’-TTAGGG-3’, the RNA template carried by telomerase must contain 5’-CCCUAA-3’
+Choice 3 of 4:Telomeres serve as an important buffer between genes and chromosomal ends, preventing loss of genetic information.
+Choice 4 of 4:Increased telomerase expression inhibits cancer cell division."," Choice 1 of 4: Telomerase extends the 3’ ends of DNA.
+
+Choice 3 of 4: Telomeres serve as an important buffer between genes and chromosomal ends, preventing loss of genetic information.
+
+The other choices are incorrect or incomplete based on the context provided. For instance, Choice 2 is incorrect because the RNA template carried by telomerase does not contain the complementary sequence to TTAGGG as stated. Instead, it adds TTAGGG repeats to the DNA end.
+
+Additionally, the context mentions epigenetic changes and their role in gene regulation through histone modifications. While this information is not directly related to telomeres, it emphasizes the importance of considering various mechanisms of gene expression regulation beyond just transcription.
+
+Therefore, the correct answer remains choices 1 and 3.",True,True
+4,"Which of the following features apply to prokaryotic transcription only, not eukaryotic transcription? Select all that apply.
+","Choice 1 of 5:occurs in the cytoplasm
+Choice 2 of 5:occurs in the nucleus
+Choice 3 of 5:involves RNA polymerase
+Choice 4 of 5:transcribed mRNA can be translated immediately
+Choice 5 of 5:transcribed mRNA must be processed prior to translation","Give the correct answer choice number to the following question
+Which of the following features apply to prokaryotic transcription only, not eukaryotic transcription? Select all that apply.
+
+ Choice 1 of 5:occurs in the cytoplasm
+Choice 2 of 5:occurs in the nucleus
+Choice 3 of 5:involves RNA polymerase
+Choice 4 of 5:transcribed mRNA can be translated immediately
+Choice 5 of 5:transcribed mRNA must be processed prior to translation"," The original answer is correct: Choice 1 of 5: occurs in the cytoplasm.
+
+However, with the new context provided, it is clear that eukaryotic transcription can also occur in the nucleus (Choice 2). Therefore, the question should be revised to ask about features that apply only to prokaryotic transcription, not both. The correct answer would then be:
+
+Choice 1 of 5: occurs in the cytoplasm.
+
+Prokaryotic transcription and translation occur in the same compartment (cytoplasm), while eukaryotic genes undergo transcription in the nucleus and translation in the cytoplasm.",True,False

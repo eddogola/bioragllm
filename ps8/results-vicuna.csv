@@ -1,0 +1,89 @@
+0,Which of the following statements best describes the potency of embryonic stem cells? Select the best answer.,"1. Differentiated and cannot form any other type of cell 
+2. Pluripotent and can form most cells of the organism’s body 
+3. Multipotent and can form all cells that make up its particular tissue/organ","Give the correct answer choice number to the following question
+Which of the following statements best describes the potency of embryonic stem cells? Select the best answer.
+ 1. Differentiated and cannot form any other type of cell 
+2. Pluripotent and can form most cells of the organism’s body 
+3. Multipotent and can form all cells that make up its particular tissue/organ","
+1. Antigens are molecules or particles that stimulate an immune response in the body, such as proteins on the surface of bacteria or viruses.
+2. The humoral immune response is mediated by antibodies and B cells, which produce antibodies upon exposure to an antigen.
+3. T cells play a critical role in the cell-mediated immune response, where they directly kill infected cells or regulate the immune system's response. They do this through the interaction between their T cell receptor and MHC class II proteins on the surface of antigen-presenting cells like macrophages.
+4. In humans, there are three genetic loci for class I MHC proteins and three for class II MHC proteins, with many possible allele combinations leading to a diverse set of MHC genotypes. This diversity is crucial for the immune system to recognize and fight off various antigens effectively.
+5. The cellular immune response is directed against parasites, fungi, intracellular viruses, and foreign tissues (grafts), while the humoral immune response targets circulating antigens in body fluids. Both responses work together to provide comprehensive immunity.",True,False
+1,Which of the following statements best describes the potency of adult stem cells found in a particular tissue/organ? Select the best answer.,"1. Differentiated and cannot form any other type of cell 
+2. Pluripotent and can form most cells of the organism’s body 
+3. Multipotent and can form all cells that make up its particular tissue/organ","Give the correct answer choice number to the following question
+Which of the following statements best describes the potency of adult stem cells found in a particular tissue/organ? Select the best answer.
+ 1. Differentiated and cannot form any other type of cell 
+2. Pluripotent and can form most cells of the organism’s body 
+3. Multipotent and can form all cells that make up its particular tissue/organ","1. What is the primary function of T cells in the immune system?
+T cells are a critical component of the adaptive immune response, playing a central role in recognizing and responding to specific antigens. They do this by binding to antigen displayed on the surface of an antigen-presenting cell (APC) through their T cell receptor (TCR). The recognition of specific antigens leads to the activation",False,False
+2,"Professor Guarente described a somatic cell nuclear transfer experiment in Xenopus laevis (frogs) that demonstrated adult cells can be reprogrammed.
+Imagine you set out to validate this experimental finding in a different model organism - mice. You have two different lab strains of mice: wildtype with a black coat, and albino with a white coat.
+Your experiments in mice result in transplanted mice pups that all have black coats.
+Select the best answer to fill in the blanks in the following description of the experiment you conducted in mice:
+You inserted the nucleus isolated from a skin cell of a(n) _____ mouse into an enucleated egg cell from a ____ mouse. You activated the development of the egg cell and transplanted it into a surrogate ____ mouse.","1. albino; albino 
+2. wild-type wild-type 
+3. wild-type; albino wild-type 
+4. albino; albino wild-type 
+5. albino; wild-type","Give the correct answer choice number to the following question
+Professor Guarente described a somatic cell nuclear transfer experiment in Xenopus laevis (frogs) that demonstrated adult cells can be reprogrammed.
+Imagine you set out to validate this experimental finding in a different model organism - mice. You have two different lab strains of mice: wildtype with a black coat, and albino with a white coat.
+Your experiments in mice result in transplanted mice pups that all have black coats.
+Select the best answer to fill in the blanks in the following description of the experiment you conducted in mice:
+You inserted the nucleus isolated from a skin cell of a(n) _____ mouse into an enucleated egg cell from a ____ mouse. You activated the development of the egg cell and transplanted it into a surrogate ____ mouse.
+ 1. albino; albino 
+2. wild-type wild-type 
+3. wild-type; albino wild-type 
+4. albino; albino wild-type 
+5. albino; wild-type","
+In the context provided, it is clear that the query is focused on immunoglobulins, antigen-binding sites, and the role of MHC proteins in the cellular immune response. To better address these aspects, I will provide a refined version of the answer.
+
+Immunoglobulins are specialized proteins that serve as antibodies in the immune system. They are composed of two identical heavy chains and two identical light chains, held together by disulfide bonds. The variable regions of these chains are responsible for determining the specificity and function of each immunoglobulin.
+
+Antigen-binding sites in immunoglobulins are determined by their secondary structures. They determine the destination and function—the class—of each immunoglobulin. The amino acid sequences of the variable regions are different for each specific immunoglobulin. Their three-dimensional antigen-binding sites are responsible for antibody specificity.
+
+Antigen-antibody binding is noncovalent. A T cell, with the appropriate T cell receptor, binds to the MHC—antigen complex. To ensure binding, the TH cell also has a cell surface receptor protein called CD4 that recognizes and binds to MHC II. The class I MHC proteins participate in the cellular immune response directed against virus-infected cells. The class II MHC proteins participate in the cell–cell interactions of the humoral immune response, which involve T helper cells, macrophages, and B cells.
+
+The MHC proteins are ""self"" markers that display a fragment of an antigen on their surface. A specific T cell receptor can then bind to and interact further with the antigen—MHC II complex. In humans, there are three genetic loci for class I MHC proteins and three for class II MHC proteins. Each of these six loci has as many as 100 different alleles. With so many possible allele combinations, it is not surprising that different people are very likely to have different MHC genotypes, making organ donations challenging due to potential immune reactions.",False,True
+3,Which of the following statements regarding nuclear transfer are true? Select all that apply.,"1. Cloning by nuclear transfer is efficient.
+2. Cloned organisms have low survival rates, and many die during development Cloned organisms that survive to adulthood may have subtle or serious
+abnormalities.
+3. Cloning by nuclear transfer involves transferring nuclei from an egg cell into an
+enucleated skin cell.","Give the correct answer choice number to the following question
+Which of the following statements regarding nuclear transfer are true? Select all that apply.
+ 1. Cloning by nuclear transfer is efficient.
+2. Cloned organisms have low survival rates, and many die during development Cloned organisms that survive to adulthood may have subtle or serious
+abnormalities.
+3. Cloning by nuclear transfer involves transferring nuclei from an egg cell into an
+enucleated skin cell.","1. Antibodies are proteins that specifically recognize and bind to certain antigens. The part of the antibody molecule that interacts with an antigen is known as the constant region of the heavy chain. This region contains a binding site for the antigen, similar to how enzymes have an active site for substrates. However, unlike enzymes, which catalyze specific chemical reactions, antibodies simply bind to their target antigens.
+2. Immunoglobulins and T cell receptors (TCRs) differ in terms of structure and function. While immunoglobulins are gently shaped proteins consisting of two heavy chains and two light chains, TCRs are small proteins with a single chain that bind directly to peptide fragments presented by major histocompatibility complex (MHC) molecules on the surface of antigen-presenting cells. Immunoglobulins are produced by B cells, while TCRs are expressed by T cells. Both immunoglobulins and TCRs play essential roles in adaptive immunity: immunoglobulins provide humoral immunity by recognizing and neutralizing pathogens or toxins in body fluids, whereas TCRs mediate cell-mediated immunity by directly recognizing and killing infected cells.
+3. The diversity of specific antibodies in an individual is remarkable compared to other biological molecules due to the rearrangement of gene segments during B cell development. In contrast, the diversity of TCRs in a single T cell is high due to the vast number of possible Vβ × Jβ combinations that generate diverse TCRs for different antigens. This difference arises from the fact that B cells undergo V(D)J recombination once during their development, while T cells go through several rounds of rearrangement, generating a larger repertoire of TCRs.",True,False
+4,"You are reading a research paper detailing a DNA microarray experiment comparing the transcriptional profiles of wild-type skin cells versus induced pluripotent stem (iPS) cells generated from skin cells. The mRNA was isolated from the skin and iPS cells and reverse transcribed into cDNA. The cDNA was digested and labeled with either red (skin cells) or green (iPS cells) fluorophores, and hybridized on a DNA microarray with probes specific for host genes.
+The authors of the paper made the following conclusions:
+• Genes A and B significantly decreased in expression level in iPS cells compared
+to skin cells
+• Genes C and D displayed no significant difference in expression level between
+iPS and skin cells
+• Genes E, F, and G significantly increased in expression level in iPS cells
+compared to skin cells
+
+Based on these conclusions, what color did spots corresponding to genes A and B fluoresce in the DNA microarray? Select the best answer.","1. mostly red
+2. mostly green
+3. yellow (resulting from equal amounts of red and green)","Give the correct answer choice number to the following question
+You are reading a research paper detailing a DNA microarray experiment comparing the transcriptional profiles of wild-type skin cells versus induced pluripotent stem (iPS) cells generated from skin cells. The mRNA was isolated from the skin and iPS cells and reverse transcribed into cDNA. The cDNA was digested and labeled with either red (skin cells) or green (iPS cells) fluorophores, and hybridized on a DNA microarray with probes specific for host genes.
+The authors of the paper made the following conclusions:
+• Genes A and B significantly decreased in expression level in iPS cells compared
+to skin cells
+• Genes C and D displayed no significant difference in expression level between
+iPS and skin cells
+• Genes E, F, and G significantly increased in expression level in iPS cells
+compared to skin cells
+
+Based on these conclusions, what color did spots corresponding to genes A and B fluoresce in the DNA microarray? Select the best answer.
+ 1. mostly red
+2. mostly green
+3. yellow (resulting from equal amounts of red and green)","
+The process of presenting an antigen to the immune system involves several steps. First, the antigen is processed and presented on the surface of antigen-presenting cells (APCs), such as macrophages, dendritic cells, and B cells. The MHC proteins on the surface of these cells bind to the processed antigen and display it to T lymphocytes, which are specific for recognizing that particular antigen. The T lymphocytes then activate a response, either by directly killing infected cells (for class I MHC proteins) or by producing antibodies (for class II MHC proteins).
+
+There is a great deal of genetic variability in the human population due to the large number of possible alleles for MHC proteins. This can make it difficult to find a suitable organ donor, as the immune system must be compatible with the recipient's immune system. The MHC proteins are ""self"" markers, meaning they help distinguish self from non-self. They are crucial in the process of presenting antigens to the immune system.",False,False

@@ -1,0 +1,77 @@
+0,Which of the following statements best describes the potency of embryonic stem cells? Select the best answer.,"1. Differentiated and cannot form any other type of cell 
+2. Pluripotent and can form most cells of the organism’s body 
+3. Multipotent and can form all cells that make up its particular tissue/organ","Give the correct answer choice number to the following question
+Which of the following statements best describes the potency of embryonic stem cells? Select the best answer.
+ 1. Differentiated and cannot form any other type of cell 
+2. Pluripotent and can form most cells of the organism’s body 
+3. Multipotent and can form all cells that make up its particular tissue/organ"," The correct answer is 2. Embryonic stem cells are pluripotent, meaning they can form most cells of the organism's body. This property sets them apart from B cells and T cells, which are specialized immune cells involved in different aspects of the adaptive immune response. While B cells produce antibodies to neutralize antigens and T cells help coordinate cellular responses to antigens, embryonic stem cells have the unique ability to give rise to all cell types in the body. The context provided about the humoral and cellular immune responses does not directly relate to the potency of embryonic stem cells.",True,True
+1,Which of the following statements best describes the potency of adult stem cells found in a particular tissue/organ? Select the best answer.,"1. Differentiated and cannot form any other type of cell 
+2. Pluripotent and can form most cells of the organism’s body 
+3. Multipotent and can form all cells that make up its particular tissue/organ","Give the correct answer choice number to the following question
+Which of the following statements best describes the potency of adult stem cells found in a particular tissue/organ? Select the best answer.
+ 1. Differentiated and cannot form any other type of cell 
+2. Pluripotent and can form most cells of the organism’s body 
+3. Multipotent and can form all cells that make up its particular tissue/organ"," The original answer is still correct based on the provided context. Adult stem cells, specifically those found in a particular tissue or organ, are multipotent, meaning they can form all cells that make up that tissue or organ. This is different from pluripotent stem cells, which have the ability to form most cells of the organism's body, and differentiated cells, which cannot form any other type of cell. The context provided in the text discusses the role of B cells and T cells in the immune system, specifically in relation to immunoglobulins and antigen presentation. There is no mention or relevance to stem cells in this context.",True,True
+2,"Professor Guarente described a somatic cell nuclear transfer experiment in Xenopus laevis (frogs) that demonstrated adult cells can be reprogrammed.
+Imagine you set out to validate this experimental finding in a different model organism - mice. You have two different lab strains of mice: wildtype with a black coat, and albino with a white coat.
+Your experiments in mice result in transplanted mice pups that all have black coats.
+Select the best answer to fill in the blanks in the following description of the experiment you conducted in mice:
+You inserted the nucleus isolated from a skin cell of a(n) _____ mouse into an enucleated egg cell from a ____ mouse. You activated the development of the egg cell and transplanted it into a surrogate ____ mouse.","1. albino; albino 
+2. wild-type wild-type 
+3. wild-type; albino wild-type 
+4. albino; albino wild-type 
+5. albino; wild-type","Give the correct answer choice number to the following question
+Professor Guarente described a somatic cell nuclear transfer experiment in Xenopus laevis (frogs) that demonstrated adult cells can be reprogrammed.
+Imagine you set out to validate this experimental finding in a different model organism - mice. You have two different lab strains of mice: wildtype with a black coat, and albino with a white coat.
+Your experiments in mice result in transplanted mice pups that all have black coats.
+Select the best answer to fill in the blanks in the following description of the experiment you conducted in mice:
+You inserted the nucleus isolated from a skin cell of a(n) _____ mouse into an enucleated egg cell from a ____ mouse. You activated the development of the egg cell and transplanted it into a surrogate ____ mouse.
+ 1. albino; albino 
+2. wild-type wild-type 
+3. wild-type; albino wild-type 
+4. albino; albino wild-type 
+5. albino; wild-type"," The correct answer is 3. wild-type; albino.
+
+Explanation: The original query describes Professor Guarente's experiment using Xenopus laevis (frogs) demonstrating that adult cells can be reprogrammed. In the hypothetical experiment described in the question, two strains of mice with different coat colors are used to validate this finding. The results indicate that offspring have black coats despite being derived from a wild-type nucleus and an albino egg, demonstrating successful reprogramming and transfer of the wild-type genome into the albino egg. Therefore, the correct answer remains 3. wild-type; albino.
+
+The additional context provided in the text discusses the role of T cells and MHC proteins in the immune response, but it is not directly related to the question at hand and does not impact the validity or refinement of the original answer.",True,True
+3,Which of the following statements regarding nuclear transfer are true? Select all that apply.,"1. Cloning by nuclear transfer is efficient.
+2. Cloned organisms have low survival rates, and many die during development Cloned organisms that survive to adulthood may have subtle or serious
+abnormalities.
+3. Cloning by nuclear transfer involves transferring nuclei from an egg cell into an
+enucleated skin cell.","Give the correct answer choice number to the following question
+Which of the following statements regarding nuclear transfer are true? Select all that apply.
+ 1. Cloning by nuclear transfer is efficient.
+2. Cloned organisms have low survival rates, and many die during development Cloned organisms that survive to adulthood may have subtle or serious
+abnormalities.
+3. Cloning by nuclear transfer involves transferring nuclei from an egg cell into an
+enucleated skin cell."," The correct answer choice numbers to the given question are:
+2. Cloned organisms that survive to adulthood may have subtle or serious abnormalities.
+3. Cloning by nuclear transfer involves transferring nuclei from an egg cell into an enucleated skin cell.
+
+Explanation: The statement 1 is not entirely true, as cloning by nuclear transfer is not efficient due to various challenges such as low success rates and issues related to epigenetic reprogramming (as mentioned in the original answer). Additionally, the process can result in abnormalities or developmental issues for the cloned organisms, as stated in statement 2. The third statement is correct as it describes the general process of nuclear transfer used in cloning.",True,True
+4,"You are reading a research paper detailing a DNA microarray experiment comparing the transcriptional profiles of wild-type skin cells versus induced pluripotent stem (iPS) cells generated from skin cells. The mRNA was isolated from the skin and iPS cells and reverse transcribed into cDNA. The cDNA was digested and labeled with either red (skin cells) or green (iPS cells) fluorophores, and hybridized on a DNA microarray with probes specific for host genes.
+The authors of the paper made the following conclusions:
+• Genes A and B significantly decreased in expression level in iPS cells compared
+to skin cells
+• Genes C and D displayed no significant difference in expression level between
+iPS and skin cells
+• Genes E, F, and G significantly increased in expression level in iPS cells
+compared to skin cells
+
+Based on these conclusions, what color did spots corresponding to genes A and B fluoresce in the DNA microarray? Select the best answer.","1. mostly red
+2. mostly green
+3. yellow (resulting from equal amounts of red and green)","Give the correct answer choice number to the following question
+You are reading a research paper detailing a DNA microarray experiment comparing the transcriptional profiles of wild-type skin cells versus induced pluripotent stem (iPS) cells generated from skin cells. The mRNA was isolated from the skin and iPS cells and reverse transcribed into cDNA. The cDNA was digested and labeled with either red (skin cells) or green (iPS cells) fluorophores, and hybridized on a DNA microarray with probes specific for host genes.
+The authors of the paper made the following conclusions:
+• Genes A and B significantly decreased in expression level in iPS cells compared
+to skin cells
+• Genes C and D displayed no significant difference in expression level between
+iPS and skin cells
+• Genes E, F, and G significantly increased in expression level in iPS cells
+compared to skin cells
+
+Based on these conclusions, what color did spots corresponding to genes A and B fluoresce in the DNA microarray? Select the best answer.
+ 1. mostly red
+2. mostly green
+3. yellow (resulting from equal amounts of red and green)"," The original answer is still correct based on the information provided in the research paper. However, it's important to note that the DNA microarray analysis only reveals differences in gene expression levels between skin cells and iPS cells, not the physical location of the genes on the array or the fluorescence colors associated with those spots. The conclusion that genes A and B significantly decreased in expression level in iPS cells compared to skin cells suggests that the spots corresponding to these genes would have fluoresced more strongly with the red label (representing skin cells) than with the green label (representing iPS cells). Therefore, the answer remains ""1. mostly red"" for genes A and B.",True,False
