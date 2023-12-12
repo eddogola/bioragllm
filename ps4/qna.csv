@@ -1,0 +1,158 @@
+Question #,Question Prompt,Answer Choices,Correct Answer Choice
+1.1,"Archaea are the third domain of life and have molecular features that are either unique to archaea or are similar to either eukaryotes or prokaryotes. For the following features found in archaea, indicate whether they are similar to prokaryotes or eukaryotes.
+
+Archaea can contain a single circular chromosome, a feature commonly found in ____ (select the best answer):","Choice 1 of 2:prokaryotes
+
+Choice 2 of 2:eukaryotes",1- prokaryotes
+1.2,"Archaea contain histone proteins, a feature commonly found in ____ (select the best answer):","Choice 1 of 2:prokaryotes
+
+Choice 2 of 2:eukaryotes",2- eukaryotes
+1.3,"Archaea contain their genome in the cytoplasm, a feature commonly found in ____ (select the best answer):","Choice 1 of 2:prokaryotes
+
+Choice 2 of 2:eukaryotes",1- prokaryotes
+1.4,Which of the following statements about telomeres are true? Select all that apply.,"Choice 1 of 4:Telomerase extends the 5’ ends of DNA.
+Choice 2 of 4:Since telomeres are repeats of the sequence 5’-TTAGGG-3’, the RNA template carried by telomerase must contain 5’-CCCUAA-3’
+Choice 3 of 4:Telomeres serve as an important buffer between genes and chromosomal ends, preventing loss of genetic information.
+Choice 4 of 4:Increased telomerase expression inhibits cancer cell division.","2 - Since telomeres are repeats of the sequence 5’-TTAGGG-3’, the RNA template carried by telomerase must contain 5’-CCCUAA-3’
+3- Telomeres serve as an important buffer between genes and chromosomal ends, preventing loss of genetic information.
+
+"
+1.5,"Which of the following features apply to prokaryotic transcription only, not eukaryotic transcription? Select all that apply.
+","Choice 1 of 5:occurs in the cytoplasm
+Choice 2 of 5:occurs in the nucleus
+Choice 3 of 5:involves RNA polymerase
+Choice 4 of 5:transcribed mRNA can be translated immediately
+Choice 5 of 5:transcribed mRNA must be processed prior to translation",1- occurs in the cytoplasm; 4- transcribed mRNA can be translated immediately
+1.7,"Which of the following features could apply to BOTH eukaryotic and prokaryotic translation? Select all that apply.
+","Choice 1 of 4:Translation occurs on free ribosomes.
+Choice 2 of 4:Translation occurs on ribosomes attached to the ER.
+Choice 3 of 4:Translation of one mRNA can produce one unique protein.
+Choice 4 of 4:Translation begins with the ribosome binding to the 5’ cap of mRNA.","1- Translation occurs on free ribosomes.; 3- Translation of one mRNA can produce one unique protein.
+"
+2.1,"Inducible proteins are expressed when they are needed, while constitutive proteins are expressed all of the time.","Choice 1 of 2:true
+
+Choice 2 of 2:false",1- true
+2.2,"Gene regulation can occur via epigenetic changes, such as DNA methylation or use of regulatory proteins that modulate the transcription.","Choice 1 of 2:true
+
+Choice 2 of 2:false","1- true
+"
+2.3,Increased expression and activity of a DNA methylase is likely to result in increased expression of its target gene(s).,"Choice 1 of 2:true
+
+Choice 2 of 2:false",2- false
+2.4,"In prokaryotes, old and methylated strands of DNA are used as a template to correct any mismatched nucleotides in the new and unmethylated strands after DNA replication is complete.","Choice 1 of 2:true
+
+Choice 2 of 2:false",1- true
+2.5,Modification of histones (proteins that DNA is wrapped around in eukaryotes) can regulate the expression of genes despite the DNA sequence being unchanged. Is this a form of epigenetics?,"Choice 1 of 2:true
+
+Choice 2 of 2:false",1- true
+2.6,Regulatory proteins bind to an operator site in order to impact gene expression of their downstream target gene(s) in prokaryotes.,"Choice 1 of 2:true
+
+Choice 2 of 2:false",1- true
+2.7,Which of the following best describes a co-repressor? Select the best answer.,"Choice 1 of 6:a molecule that increases the repressor’s affinity for DNA
+
+Choice 2 of 6:a molecule that decreases the repressor’s affinity for DNA
+
+Choice 3 of 6:a molecule that increases the activator’s affinity for DNA
+
+Choice 4 of 6:a molecule that decreases the activator’s affinity for DNA
+
+Choice 5 of 6:a protein that increases RNA polymerase’s affinity for DNA
+
+Choice 6 of 6:a protein that decreases RNA polymerase’s affinity for DNA","1- a molecule that increases the repressor’s affinity for DNA
+"
+4.1,The viral particles for some viruses are different from others. Which of the following features are not universally present in all cases? Select all that apply.,"Choice 1 of 5:lipid envelope to surround protein coat
+Choice 2 of 5:genome
+Choice 3 of 5:spike proteins
+Choice 4 of 5:capsid or protein coat
+Choice 5 of 5:encapsulated viral proteins","1- lipid envelope to surround protein coat; 3- spike proteins; 5- encapsulated viral proteins
+"
+4.2,"You infect an exponentially-growing culture of E. coli cells with an unknown bacteriophage (Phage X). You notice that, after mixing phage and bacteria, the bacteria cells do not die, and keep growing as usual. 
+
+Assuming the phage did successfully infect the E. coli cells, which of the following phage gene products is likely responsible for infected cell survival? Select the best answer.","Choice 1 of 4:an enzyme that lyses the host cell
+
+Choice 2 of 4:an enzyme that replicates the viral genome
+
+Choice 3 of 4:a repressor of host gene expression
+
+Choice 4 of 4:an enzyme that inserts the viral genome into the host genome","4- an enzyme that inserts the viral genome into the host genome
+"
+4.3,"Since your cells did not die upon Phage X infection (Q4.2), you’re curious whether the infected cells would behave differently under stressful conditions. You treat your phage X-infected E. coli cells with Mitomycin C (a chemotherapeutic drug that interferes with DNA replication and causes DNA damage) at a concentration that does not kill the bacterial cells. Over time, you notice your bacterial culture begins turning clear, indicating cell death is occurring. 
+
+Which of the following phage gene products is likely responsible for infected cell death? Select the best answer.","Choice 1 of 4:an enzyme that lyses the host cell
+
+Choice 2 of 4:an enzyme that replicates the viral genome
+
+Choice 3 of 4:a repressor of host gene expression
+
+Choice 4 of 4:an enzyme that inserts the viral genome into the host genome","1- an enzyme that lyses the host cell
+"
+4.4,Which of the following best describes Phage X? Select the best answer.,"Choice 1 of 4:a phage that undergoes the lytic cycle only
+
+Choice 2 of 4:a phage that undergoes the lysogenic cycle only
+
+Choice 3 of 4:a phage that undergoes the lysogenic and lytic cycles
+
+Choice 4 of 4:a phage that undergoes a retroviral life cycle","3- a phage that undergoes the lysogenic and lytic cycles
+"
+5.2,Does a (+) sense RNA virus need to generate its complementary (-) sense RNA strand during its life cycle? Select the best answer.,"Choice 1 of 4:yes, to use as template strand for RdRP to generate more (+) sense RNA genomes
+
+Choice 2 of 4:yes, to use as a template strand for ribosomes to translate viral proteins
+
+Choice 3 of 4:yes, to integrate into the host genome","1- yes, to use as template strand for RdRP to generate more (+) sense RNA genomes
+"
+5.3,Which of the following are steps common to the life cycle of both a (+) sense RNA virus and a (+) sense RNA retrovirus? Select all that apply.,"Choice 1 of 5:cell entry
+Choice 2 of 5:reverse transcription
+Choice 3 of 5:(+) sense RNA is produced to package in new viral particles
+Choice 4 of 5:(-) sense RNA is produced from (+) sense RNA
+Choice 5 of 5:cDNA is produced from (+) sense RNA","1- cell entry; 3- (+) sense RNA is produced to package in new viral particles; 4- (-) sense RNA is produced from (+) sense RNA
+"
+6.1,"Which of the following statements regarding bacteria are true? Select all that apply.
+","Choice 1 of 5:Names of bacteria are italicized and written Species (upper case) and genus (lower case).
+Choice 2 of 5:Two strains of the same bacteria can have very different properties.
+Choice 3 of 5:Bacterial cells can have cell walls made up of peptidoglycan with/without an outer membrane.
+Choice 4 of 5:Bacteria can acquire new genes from other bacteria through horizontal gene transfer.
+Choice 5 of 5:Commensal and parasitic bacteria get nutrients from the host at the host’s expense.","2- Two strains of the same bacteria can have very different properties.; 3- Bacterial cells can have cell walls made up of peptidoglycan with/without an outer membrane; 4- Bacteria can acquire new genes from other bacteria through horizontal gene transfer.
+"
+6.2,"Which of the following layers must a compound pass through to bind to the extracellular region of a membrane protein embedded in the plasma membrane of a Gram-positive bacterial cell? Select all that apply.
+","Choice 1 of 4:outer membrane
+Choice 2 of 4:peptidoglycan
+Choice 3 of 4:plasma membrane
+Choice 4 of 4:nucleoid","2- peptidoglycan
+"
+6.3,"Given what you know about bacterial and viral infections, which of the following actions would you generally recommend? Select all that apply.
+","Choice 1 of 6:Taking a vaccine to immediately treat an ongoing bacterial infection.
+Choice 2 of 6:Taking an inhibitor targeting virulence factors to combat parasitic bacteria in your body.
+Choice 3 of 6:Taking an antibiotic to treat a viral infection.
+Choice 4 of 6:Refrigerating leftovers to protect against introducing foodborne pathogens into your gut microbiome.
+Choice 5 of 6:Taking an RNA-dependent RNA polymerase inhibitor to treat an RNA viral infection.
+Choice 6 of 6:Completing a full course of antibiotic treatment even if you feel better halfway through.","2- Taking an inhibitor targeting virulence factors to combat parasitic bacteria in your body.; 4- Refrigerating leftovers to protect against introducing foodborne pathogens into your gut microbiome; 5- Taking an RNA-dependent RNA polymerase inhibitor to treat an RNA viral infection; 6- Completing a full course of antibiotic treatment even if you feel better halfway through.
+"
+6.4,"Your friend is currently taking antibiotics to treat a fungal infection on their skin. They suspect that they were infected during wrestling practice (a highly physical sport) last week. Your friend wrestled with one other team member who also reported they were infected. Other members of the wrestling team are uninfected, despite having attended practice and being nearby; they did not wrestle with you or your friend directly. No one was coughing or sneezing during practice.
+
+Based on this information, what mode of transmission is likely responsible for the spread of this fungal infection? Select the best answer.
+","Choice 1 of 4:person to person
+
+Choice 2 of 4:vehicles (contaminated liquids/objects)
+
+Choice 3 of 4:droplet spread
+
+Choice 4 of 4:vectors","1- person to person
+"
+7.1,"Which of the following statements regarding antibiotic resistance are true? Select all that apply.
+","Choice 1 of 3:Antibiotics kill only parasitic bacteria.
+Choice 2 of 3:Antibiotics can kill commensal bacteria, resulting in an increase in antibiotic-resistant bacteria that could begin to harm the host.
+Choice 3 of 3:Antibiotics result in antibiotic-resistant commensal bacteria that might transfer antibiotic resistance genes to parasitic bacteria.","2- Antibiotics can kill commensal bacteria, resulting in an increase in antibiotic-resistant bacteria that could begin to harm the host.; 3- Antibiotics result in antibiotic-resistant commensal bacteria that might transfer antibiotic resistance genes to parasitic bacteria.
+"
+7.2,"Rifampicin is an antibiotic that targets the bacterial ribosome. If bacteria become resistant to rifampicin due to a frameshift mutation in a gene that encodes a membrane protein that imports the antibiotic inside the cell, which mechanism of antibiotic resistance is at play? Select the best answer.
+","Choice 1 of 3:drug modification
+
+Choice 2 of 3:target modification
+
+Choice 3 of 3:cell membrane/wall protein modification","3- cell membrane/wall protein modification
+"
+7.3,"An antibiotic drug (that kills bacterial cells) targets an enzyme that is necessary for bacterial survival, but resistance develops.
+
+Which of the following could explain the development of resistance and bacterial survival upon drug treatment? Select all that apply.","Choice 1 of 4:A membrane protein becomes modified so that it now exports the drug outside of the cell away from the target enzyme.
+Choice 2 of 4:The gene encoding the essential enzyme is deleted, so that the drug can no longer bind the enzyme.
+Choice 3 of 4:A membrane or cell wall becomes modified so that the drug cannot enter the cell.
+Choice 4 of 4:The drug becomes modified so that it can no longer bind to the enzyme.",1- A membrane protein becomes modified so that it now exports the drug outside of the cell away from the target enzyme.;  3- A membrane or cell wall becomes modified so that the drug cannot enter the cell; 4- The drug becomes modified so that it can no longer bind to the enzyme.
