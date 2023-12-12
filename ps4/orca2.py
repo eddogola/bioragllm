@@ -10,9 +10,9 @@ embed_model = HuggingFaceEmbedding(model_name="BAAI/bge-small-en-v1.5")
 
 print("HF embedding model loaded")
 
-llm = Ollama(model="llama2", temperature=0)
+llm = Ollama(model="orca2", temperature=0)
 
-print("Ollama llama2 model loaded")
+print("Ollama orca2 model loaded")
 
 DATA_PATH = os.path.join("/Users/ogola/tinyml/project/bioragllm", "ps4/data")
 docs = SimpleDirectoryReader(DATA_PATH).load_data()
@@ -80,5 +80,5 @@ for i in range(5):#range(len(df)):
     print(f"Question {i+1} done")
 
 df = pd.DataFrame(data)
-RESULTS_PATH = os.path.join("/Users/ogola/tinyml/project/bioragllm", "ps4/results-llama2.csv")
+RESULTS_PATH = os.path.join("/Users/ogola/tinyml/project/bioragllm", "ps4/results-orca2.csv")
 df.to_csv(RESULTS_PATH, mode='a', header=False)

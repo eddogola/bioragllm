@@ -10,11 +10,11 @@ embed_model = HuggingFaceEmbedding(model_name="BAAI/bge-small-en-v1.5")
 
 print("HF embedding model loaded")
 
-llm = Ollama(model="llama2", temperature=0)
+llm = Ollama(model="mistral", temperature=0)
 
-print("Ollama llama2 model loaded")
+print("Ollama mistral model loaded")
 
-DATA_PATH = os.path.join("/Users/ogola/tinyml/project/bioragllm", "ps4/data")
+DATA_PATH = os.path.join("/Users/ogola/tinyml/project/bioragllm", "ps5/data")
 docs = SimpleDirectoryReader(DATA_PATH).load_data()
 
 print("Data loaded in `docs`")
@@ -32,7 +32,7 @@ query_engine = index.as_query_engine()
 
 print("Query engine created")
 
-QNA_PATH = os.path.join("/Users/ogola/tinyml/project/bioragllm", "ps4/qna.csv")
+QNA_PATH = os.path.join("/Users/ogola/tinyml/project/bioragllm", "ps5/qna.csv")
 df = pd.read_csv(QNA_PATH)
 
 print("questions and answers data loaded")
@@ -80,5 +80,5 @@ for i in range(5):#range(len(df)):
     print(f"Question {i+1} done")
 
 df = pd.DataFrame(data)
-RESULTS_PATH = os.path.join("/Users/ogola/tinyml/project/bioragllm", "ps4/results-llama2.csv")
+RESULTS_PATH = os.path.join("/Users/ogola/tinyml/project/bioragllm", "ps5/results-mistral.csv")
 df.to_csv(RESULTS_PATH, mode='a', header=False)
