@@ -1,0 +1,72 @@
+0,"Archaea are the third domain of life and have molecular features that are either unique to archaea or are similar to either eukaryotes or prokaryotes. For the following features found in archaea, indicate whether they are similar to prokaryotes or eukaryotes.
+
+Archaea can contain a single circular chromosome, a feature commonly found in ____ (select the best answer):","Choice 1 of 2:prokaryotes
+
+Choice 2 of 2:eukaryotes","Give the correct answer choice number to the following question
+Archaea are the third domain of life and have molecular features that are either unique to archaea or are similar to either eukaryotes or prokaryotes. For the following features found in archaea, indicate whether they are similar to prokaryotes or eukaryotes.
+
+Archaea can contain a single circular chromosome, a feature commonly found in ____ (select the best answer):
+ Choice 1 of 2:prokaryotes
+
+Choice 2 of 2:eukaryotes","Epigenetic changes can be induced by the environment and genetic makeup, which can affect gene expression patterns in organisms. For example, in honeybees, the queen bee has a different gene expression pattern than worker and drone larvae due to her royal jelly diet. This difference is due to epigenetic changes, such as DNA methylation, which can permanently alter gene expression patterns in cells. These epigenetic changes can be influenced by the environment and may play a role in determining the development and behavior of organisms with the same genetic makeup.",False,False
+1,"Archaea contain histone proteins, a feature commonly found in ____ (select the best answer):","Choice 1 of 2:prokaryotes
+
+Choice 2 of 2:eukaryotes","Give the correct answer choice number to the following question
+Archaea contain histone proteins, a feature commonly found in ____ (select the best answer):
+ Choice 1 of 2:prokaryotes
+
+Choice 2 of 2:eukaryotes","Female honey bees all have the same genetic makeup, but epigenetic changes can influence their behavior and development. Environmental factors, such as nutrition and social interactions, can alter gene expression without changing the DNA sequence. These epigenetic modifications can affect various aspects of the queen bee's life, including reproduction, diapause termination, and colony integration. For example, queen bees can learn from their daughters how to perform specific tasks or behaviors, such as foraging or waggle dancing, which are then passed on to their offspring through epigenetic inheritance. This demonstrates that epigenetics plays a crucial role in regulating gene activity and adaptation within a queen bee colony.",False,False
+2,"Archaea contain their genome in the cytoplasm, a feature commonly found in ____ (select the best answer):","Choice 1 of 2:prokaryotes
+
+Choice 2 of 2:eukaryotes","Give the correct answer choice number to the following question
+Archaea contain their genome in the cytoplasm, a feature commonly found in ____ (select the best answer):
+ Choice 1 of 2:prokaryotes
+
+Choice 2 of 2:eukaryotes","The query is asking for a definition or explanation of the lytic and lysogenic cycles of viruses. The original answer provided was:
+
+""A virus life cycle may be lytic or lysogenic. Understanding the infection cycles of a virus makes it possible to design therapeutic agents to fight infections.""
+
+Refined Answer: The lytic cycle is a viral reproductive process where the viral genetic material takes over the host's synthetic machinery for its own reproduction, leading to the host cell bursting (lysing) and releasing new virus particles. In contrast, the lysogenic cycle involves the viral genome integrating into the host genome as a prophage, remaining inactive within the bacterial genome until it eventually enters the lytic phase to complete the virus life cycle.",False,True
+3,Which of the following statements about telomeres are true? Select all that apply.,"Choice 1 of 4:Telomerase extends the 5’ ends of DNA.
+Choice 2 of 4:Since telomeres are repeats of the sequence 5’-TTAGGG-3’, the RNA template carried by telomerase must contain 5’-CCCUAA-3’
+Choice 3 of 4:Telomeres serve as an important buffer between genes and chromosomal ends, preventing loss of genetic information.
+Choice 4 of 4:Increased telomerase expression inhibits cancer cell division.","Give the correct answer choice number to the following question
+Which of the following statements about telomeres are true? Select all that apply.
+ Choice 1 of 4:Telomerase extends the 5’ ends of DNA.
+Choice 2 of 4:Since telomeres are repeats of the sequence 5’-TTAGGG-3’, the RNA template carried by telomerase must contain 5’-CCCUAA-3’
+Choice 3 of 4:Telomeres serve as an important buffer between genes and chromosomal ends, preventing loss of genetic information.
+Choice 4 of 4:Increased telomerase expression inhibits cancer cell division.","In prokaryotes, transcription and translation are often coupled in time and space due to the lack of a nucleus. The nucleus separates these processes in eukaryotes, providing several advantages. These include:
+
+1. Protection of genetic information: The nucleus protects the DNA from damage caused by various cellular processes and environmental factors. This helps maintain the integrity of the genetic information stored within the nucleus.
+
+2. Regulation of gene expression: The nucleus allows for the selective regulation of gene expression by controlling the access of transcription factors to specific genes. This enables eukaryotic cells to coordinate the regulation of multiple genes whose transcription needs to be turned on simultaneously, unlike prokaryotes that rely on operons and sigma factors for this purpose.
+
+3. Organization of genomic DNA: In contrast to prokaryotes, where DNA is not organized into a linear structure, eukaryotic chromosomes are coiled and condensed within the nucleus, making it easier for the cell to manage and access specific genetic information during transcription and translation processes.
+
+4. Storage of non-coding RNA: The nucleus serves as a storage site for various types of non-coding RNA molecules, such as ribosomal RNAs (rRNAs), transfer RNAs (tRNAs), and small regulatory RNAs, which are essential for the proper functioning of eukaryotic cells.
+
+Overall, the nucleus acts as a compartment that helps maintain the integrity, organization, and regulation of genetic information in eukaryotic cells.",True,True
+4,"Which of the following features apply to prokaryotic transcription only, not eukaryotic transcription? Select all that apply.
+","Choice 1 of 5:occurs in the cytoplasm
+Choice 2 of 5:occurs in the nucleus
+Choice 3 of 5:involves RNA polymerase
+Choice 4 of 5:transcribed mRNA can be translated immediately
+Choice 5 of 5:transcribed mRNA must be processed prior to translation","Give the correct answer choice number to the following question
+Which of the following features apply to prokaryotic transcription only, not eukaryotic transcription? Select all that apply.
+
+ Choice 1 of 5:occurs in the cytoplasm
+Choice 2 of 5:occurs in the nucleus
+Choice 3 of 5:involves RNA polymerase
+Choice 4 of 5:transcribed mRNA can be translated immediately
+Choice 5 of 5:transcribed mRNA must be processed prior to translation","Transcription factors are proteins that help regulate gene transcription by binding to specific regions of DNA, known as regulatory sequences. These sequences can be found within the promoter region or upstream of a gene. The ways in which transcription factors regulate the rate of gene transcription include:
+
+1. Binding to the promoter region and recruiting RNA polymase II (in eukaryotes) or RNA polymerase (in prokaryotes), initiating the transcription process. This binding can either activate or repress the transcription depending on the specific transcription factor involved.
+2. Modulating the rate of transcription by interacting with other proteins that are part of the transcription machinery, such as TFIID in eukaryotes, which binds to the TATA box in the promoter region.
+3. Directly affecting the expression level of a gene by binding to it and altering its stability or turnover rate.
+4. Interacting with chromatin modifiers that change the structure of the DNA, making it more accessible for transcription machinery or reducing its accessibility, thereby influencing gene expression levels.
+5. Acting as a substrate for enzymes that modify DNA, such as methyltransferases and histone deacetylases, which can affect gene expression by altering the chromatin structure or DNA methylation patterns.
+6. Interacting with other transcription factors to form complexes that regulate the expression of multiple genes simultaneously through a process called co-activator or co-repressor recruitment. These complexes can either enhance or repress the transcription of target genes, depending on their composition and the environmental conditions.
+
+Transcription factors recognize specific DNA sequences by using conserved domains within their protein structure, such as zinc finger, leucine zipper, or helix-turn-helix motifs. These domains can interact with DNA via specific hydrogen bonds or electrostatic interactions, allowing the transcription factor to bind to its target sequence. Additionally, some transcription factors can recognize and bind to cis-acting elements called response elements, which are short DNA sequences found within the regulatory regions of target genes.
+
+In a eukaryote, more than one gene can be regulated simultaneously by a single transcription factor through a process called co-regulation or synergistic regulation. This occurs when a transcription factor binds to its target sequence in the promoter region of multiple genes that share common themes or functions, creating a coordinated response to environmental cues.",False,True
