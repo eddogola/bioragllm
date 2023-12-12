@@ -1,0 +1,70 @@
+0,"Archaea are the third domain of life and have molecular features that are either unique to archaea or are similar to either eukaryotes or prokaryotes. For the following features found in archaea, indicate whether they are similar to prokaryotes or eukaryotes.
+
+Archaea can contain a single circular chromosome, a feature commonly found in ____ (select the best answer):","Choice 1 of 2:prokaryotes
+
+Choice 2 of 2:eukaryotes","Give the correct answer choice number to the following question
+Archaea are the third domain of life and have molecular features that are either unique to archaea or are similar to either eukaryotes or prokaryotes. For the following features found in archaea, indicate whether they are similar to prokaryotes or eukaryotes.
+
+Archaea can contain a single circular chromosome, a feature commonly found in ____ (select the best answer):
+ Choice 1 of 2:prokaryotes
+
+Choice 2 of 2:eukaryotes","
+1. The process of transcription in eukaryotes starts with the binding of RNA polymerase to the promoter region of a gene, followed by the synthesis of mRNA from the DNA template. During transcription elongation, the enzyme adds nucleotides to the growing mRNA chain, using the DNA template as a guide. The process of transcription termination involves the release of the RNA polymerase from the DNA template, followed by the cleavage and polyadenylation of the pre-mRNA.
+2. The addition of a 5’ cap is important for the stability and transport of mRNA. It also facilitates translation by providing a binding site for the ribosome. On the other hand, the removal of introns during mRNA processing is crucial for ensuring that only the coding regions are present in the final mRNA.
+3. The process of transcription and its regulation can be affected by various factors, such as promoter occupancy, RNA polymerase CTD phosphorylation status, transcription elongation dynamics, and chromatin remodeling complexes.
+4. In the case of HIV, transcription elongation is regulated through interactions between viral and host cell proteins. The viral envelope interacts with host cell surface receptors, leading to fusion and entry into the host cell. Once inside the cell, the virus hijacks the cellular machinery for its own replication, including transcription elongation.
+5. Specific transcription factors are required for HIV transcription, such as Tax2 (Taxane-2), which is regulated by NF-kB signaling. The viral promoter also includes a TATA box element and GC boxes that bind to RNA polymerase. The activity of these transcription factors plays a critical role in HIV replication, including the regulation of transcription elongation during reverse transcription.
+6. Inhibiting transcription elongation can have multiple effects on HIV replication, such as decreasing viral RNA synthesis and reducing the release of new virions from infected cells.
+7. Studies of HIV and other retroviruses have revealed that transcription can also be controlled at the elongation stage, with viral proteins interacting with host cell factors involved in transcription elongation. These interactions disrupt normal RNA polymerase dynamics during elongation, leading to aberrant RNA synthesis and viral replication.
+8. Inhibitors of transcription elongation can target these interactions and affect the ability of HIV to replicate by impeding viral RNA synthesis. By understanding how these inhibitors work, researchers may be able to develop more effective antiretroviral therapies for HIV treatment in the future.",True,True
+1,"Archaea contain histone proteins, a feature commonly found in ____ (select the best answer):","Choice 1 of 2:prokaryotes
+
+Choice 2 of 2:eukaryotes","Give the correct answer choice number to the following question
+Archaea contain histone proteins, a feature commonly found in ____ (select the best answer):
+ Choice 1 of 2:prokaryotes
+
+Choice 2 of 2:eukaryotes","
+In honey bees, epigenetic changes can be induced by the environment. For instance, the queen bee's royal jelly diet affects gene expression and behavior of female larvae, leading to different roles for the workers (gatherers) and the queen (lays eggs). Monozygotic twins come from a single fertilized egg that divides to produce two separate cells; each of these goes on to develop a separate individual. Environmental factors such as diet and lifestyle can influence epigenetic changes, which in turn affect gene activation or repression. Different patterns of histone modification can result in complex activity for a eukaryotic gene. Epigenetic changes are reversible and can be induced by various environmental factors, leading to diverse expressions of genes in different cells or individuals.",True,True
+2,"Archaea contain their genome in the cytoplasm, a feature commonly found in ____ (select the best answer):","Choice 1 of 2:prokaryotes
+
+Choice 2 of 2:eukaryotes","Give the correct answer choice number to the following question
+Archaea contain their genome in the cytoplasm, a feature commonly found in ____ (select the best answer):
+ Choice 1 of 2:prokaryotes
+
+Choice 2 of 2:eukaryotes","
+1. The lac operon of E. coli is an example of a prokaryotic gene regulatory system, which uses a repressor protein to control the expression of genes involved in lactose metabolism. The promoter of this system is efficient because it binds transcription factors and initiates transcription at a high rate. The synthesis of the lac repressor is regulated by an operator sequence in front of the structural genes, allowing it to be activated or repressed in response to environmental changes such as the presence or absence of lactose.
+2. In eukaryotic cells, pre-mRNA undergoes splicing and editing before it is exported out of the nucleus through nuclear pores. The mature mRNA transcript then binds to ribosomes in the cytoplasm for translation",False,True
+3,Which of the following statements about telomeres are true? Select all that apply.,"Choice 1 of 4:Telomerase extends the 5’ ends of DNA.
+Choice 2 of 4:Since telomeres are repeats of the sequence 5’-TTAGGG-3’, the RNA template carried by telomerase must contain 5’-CCCUAA-3’
+Choice 3 of 4:Telomeres serve as an important buffer between genes and chromosomal ends, preventing loss of genetic information.
+Choice 4 of 4:Increased telomerase expression inhibits cancer cell division.","Give the correct answer choice number to the following question
+Which of the following statements about telomeres are true? Select all that apply.
+ Choice 1 of 4:Telomerase extends the 5’ ends of DNA.
+Choice 2 of 4:Since telomeres are repeats of the sequence 5’-TTAGGG-3’, the RNA template carried by telomerase must contain 5’-CCCUAA-3’
+Choice 3 of 4:Telomeres serve as an important buffer between genes and chromosomal ends, preventing loss of genetic information.
+Choice 4 of 4:Increased telomerase expression inhibits cancer cell division.","
+I'm glad you found my previous response helpful. To further address your question about introns, I'll provide a more detailed explanation. Introns are non-coding sequences of DNA that interrupt the coding regions (exons) within genes. They don't scramble or disrupt the protein-coding information but instead play an essential role in the splicing process that generates different versions of a gene, ensuring diversity and flexibility in the proteins produced by an organism.
+
+During transcription, the introns are transcribed along with the exons, forming a primary transcript (pre-mRNA). The pre-mRNA contains both coding sequences (exons) and non-coding sequences (introns). After transcription, the pre",True,False
+4,"Which of the following features apply to prokaryotic transcription only, not eukaryotic transcription? Select all that apply.
+","Choice 1 of 5:occurs in the cytoplasm
+Choice 2 of 5:occurs in the nucleus
+Choice 3 of 5:involves RNA polymerase
+Choice 4 of 5:transcribed mRNA can be translated immediately
+Choice 5 of 5:transcribed mRNA must be processed prior to translation","Give the correct answer choice number to the following question
+Which of the following features apply to prokaryotic transcription only, not eukaryotic transcription? Select all that apply.
+
+ Choice 1 of 5:occurs in the cytoplasm
+Choice 2 of 5:occurs in the nucleus
+Choice 3 of 5:involves RNA polymerase
+Choice 4 of 5:transcribed mRNA can be translated immediately
+Choice 5 of 5:transcribed mRNA must be processed prior to translation","
+In eukaryotes, pre-mRNA undergoes processing in the nucleus before it can be exported to the cytoplasm for translation. This includes the addition of a 5' cap and a poly A tail, as well as intron splicing to remove noncoding sequences (introns) and connect exons.
+
+The 5' cap is a modified guanine nucleotide that is bonded to the 5' end of eukaryotic mRNA. It serves as a distinguishing feature for recognition by translation machinery in the cytoplasm.
+
+The poly A tail, on the other hand, is a long sequence of adenine nucleotides (typically between 50-250) added to the 3' end of most eukaryotic mRNAs. This tail is important for mRNA stability and export from the nucleus.
+
+Intron splicing removes the noncoding introns and connects the exons, which contain the coding sequences for proteins. This process is carried out by small nuclear ribonucleoprotein particles (snRNPs) that bind to consensus sequences on the pre-mRNA. The precision with which introns are removed has been demonstrated in studies of human genetic diseases.
+
+Revised Answer: In eukaryotes, pre-mRNA undergoes several processes before it can be exported to the cytoplasm for translation. These include the addition of a 5' cap and a poly A tail, as well as intron splicing to remove noncoding sequences (introns) and connect exons. The 5' cap serves as a distinguishing feature for recognition by translation machinery in the cytoplasm. Meanwhile, the poly A tail is important for mRNA stability and export from the nucleus. Intron splicing removes introns with great precision using small nuclear ribonucleoprotein particles (snRNPs) that bind to consensus sequences on the pre-mRNA. Molecular studies of human genetic diseases have provided insights into RNA splicing.",True,False
