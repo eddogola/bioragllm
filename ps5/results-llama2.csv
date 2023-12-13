@@ -1,0 +1,87 @@
+0,"_____ cells contain two copies of each chromosome, while ____ cells contain one copy of each chromosome","1. haploid; diploid 
+2. diploid; haploid 
+3. monoploid; diploid","Give the correct answer choice number to the following question
+_____ cells contain two copies of each chromosome, while ____ cells contain one copy of each chromosome
+ 1. haploid; diploid 
+2. diploid; haploid 
+3. monoploid; diploid","The genotype of the red-eyed female was XR, meaning she was heterozygous for the white eye allele (W) and had one X chromosome bearing the R allele.
+
+Explanation:
+In the reciprocal cross, the white-eyed male (XrY) inherited his only X chromosome from his mother, making him hemizygous for the white allele (W). His daughters, who were also white-eyed, inherited their X chromosomes from both parents and were therefore homozygous for W.
+
+On the other hand, the red-eyed female (XR) had two X chromosomes, one bearing the R allele and the other bearing the RY allele. Her sons, who were white-eyed, inherited their only X chromosome from their mother and were therefore hemizygous for W. Their daughters, who were red-eyed, inherited an X chromosome bearing the r allele and another X chromosome bearing the RY allele, making them heterozygous for the red eye trait (Rr).
+
+Therefore, the genotype of the red-eyed female was XR, indicating that she was heterozygous for the white eye allele (W) and had one X chromosome bearing the R allele.",False,True
+1,"During meiosis, duplicated chromosomes are called _______.","1. homologous chromosomes
+2. sister chromatids
+3. autosomes
+4. sex chromosomes 
+5. alleles","Give the correct answer choice number to the following question
+During meiosis, duplicated chromosomes are called _______.
+ 1. homologous chromosomes
+2. sister chromatids
+3. autosomes
+4. sex chromosomes 
+5. alleles","The original answer provided a good overview of Mendel's laws of inheritance and the concepts of homozygous, heterozygous, diploid, and haploid. However, in light of the new context, some refinements can be made to better answer the query.
+
+Firstly, Mendel's experiments involved studying the inheritance of traits in pea plants, specifically the characteristics of round and wrinkled seeds. He found that when he crossed a round-seeded plant with a wrinkled-seeded plant, the resulting offspring exhibited a 3:1 ratio of round to wrinkled seeds.
+
+Secondly, Mendel used the terms homozygous and heterozygous to describe the genotype of an individual. An individual that is homozygous for a particular gene has two copies of the same allele (e.g., round seeds), while an individual that is heterozygous has two different alleles (e.g., round and wrinkled seeds).
+
+Thirdly, Mendel proposed that hereditary determinants occur in pairs and segregate during the formation of gametes (sex cells). He concluded that each pea plant has two copies of each gene, one inherited from each parent. This is now referred to as the particulate theory of inheritance.
+
+Lastly, Mendel's results from his monohybrid crosses are summarized in Table 12.1. The table shows the phenotypes of the parental generation, the F2 generation, and the total number of offspring for each characteristic. The ratio of round to wrinkled seeds is 2.96:1, which is closer to 3:1 than the expected 1:1 ratio for simple inheritance.
+
+In conclusion, Mendel's experiments and theories form the foundation of modern genetics. His work on the inheritance of traits in pea plants helped establish the particulate theory of inheritance and the concepts of homozygous, heterozygous, diploid, and haploid.",False,True
+2,Which of the following statements about meiosis are true? Select all that apply.,"1. homologous chromosomes are separated during the first meiotic division 
+2. sister chromatids are separated during the second meiotic division
+3. a single diploid cell undergoing meiosis can produce four haploid cells 
+4. homologous chromosomes contain the same genes, but can have different
+alleles","Give the correct answer choice number to the following question
+Which of the following statements about meiosis are true? Select all that apply.
+ 1. homologous chromosomes are separated during the first meiotic division 
+2. sister chromatids are separated during the second meiotic division
+3. a single diploid cell undergoing meiosis can produce four haploid cells 
+4. homologous chromosomes contain the same genes, but can have different
+alleles","In meiosis, homologous chromosomes separate by independent assortment, whereas in mitosis, each chromosome behaves independently of its homolog. In meiosis, the pairing of homologs and the continued association of sister chromatids at the end of metaphase I result in genetic recombination, which can lead to new combinations of alleles in the offspring. This is why linked alleles are not always inherited together. Recombination accounts for why some progeny have different phenotypes than their parents, even if they inherit the same linked alleles.
+
+During meiosis, homologous chromosomes come together and exchange genetic material through crossing over, resulting in genetic recombination. Crossing over can occur at any point along the length of the chromosome and involves the exchange of genetic material between two homologous chromosomes, resulting in a new combination of alleles in the offspring. The frequency of recombination is greater for loci that are farther apart on the chromosome, which can result in a wider range of phenotypes in the offspring.
+
+In contrast, mitosis does not involve the exchange of genetic material between homologous chromosomes, and each daughter cell inherits one set of chromosomes, with each chromosome behaving independently of its homolog. This is why meiosis can lead to more genetic diversity in the offspring than mitosis.
+
+In summary, while both meiosis and mitosis involve cell division, meiosis results in genetic recombination and a greater range of phenotypes in the offspring due to the exchange of genetic material between homologous chromosomes during crossing over.",True,False
+3,Which statements about dominant and recessive phenotypes are true? Select all that apply.,"1. Dominant phenotypes are always wild-type while recessive phenotypes are caused by mutations.
+2. Dominant phenotypes are expressed in both homozygotes and heterozygotes. 
+3. Recessive phenotypes are only expressed in heterozygotes and not in homozygotes.
+4. Homozygosity and heterozygosity only apply to diploid organisms and not to haploid organisms.","Give the correct answer choice number to the following question
+Which statements about dominant and recessive phenotypes are true? Select all that apply.
+ 1. Dominant phenotypes are always wild-type while recessive phenotypes are caused by mutations.
+2. Dominant phenotypes are expressed in both homozygotes and heterozygotes. 
+3. Recessive phenotypes are only expressed in heterozygotes and not in homozygotes.
+4. Homozygosity and heterozygosity only apply to diploid organisms and not to haploid organisms.","Based on the new context provided, the answer to the query can be refined as follows:
+
+1. What is the difference between codominance and incomplete dominance?
+Codominance is a genetic phenomenon where two or more alleles are expressed at the same time in an individual, resulting in a hybrid phenotype. Incomplete dominance, on the other hand, is a situation where one allele has a partial effect on the phenotype, while the other allele has no or little effect.
+2. Explain how blood type AB results from codominance.
+Blood type AB is the result of codominance because it has both A and B genes in equal amounts, leading to a mixed phenotype. In this case, the individual has neither the A nor the B gene completely, resulting in a hybrid phenotype that can receive either A or B blood.
+3. In a particular plant species, two alleles control flower color, which can be yellow, green, or blue. Crosses of these plants produce the following offspring:
+
+Parental phenotypes Offspring phenotypes (ratio)
+Yellow × yellow Green × yellow Green × blue Blue × blue
+All yellow
+Green or yellow (1:1) Blue or green (1:1) All blue
+What will be the phenotype, and ratio, of the offspring of a cross of green × green?
+The offspring of a cross of green × green will have a mixed phenotype that is neither purely green nor purely yellow. The ratio of green to yellow offspring will be 1:1, as there are equal numbers of each allele in the genotype.",False,False
+4,"iA , iB , and iO are three possible genotypes of the ABO gene.","1. True
+2. False","Give the correct answer choice number to the following question
+iA , iB , and iO are three possible genotypes of the ABO gene.
+ 1. True
+2. False","In the original answer, the term ""codominance"" is used to describe the inheritance of two alleles at a single locus, each of which produces a different phenotypic effect. However, the context provided in the query suggests that the focus is on the ABO blood group system, where multiple alleles at a single locus result in different oligosaccharides on the surface of red blood cells, leading to compatibility or incompatibility issues in blood transfusions.
+
+To better answer the query, we can refine the original answer as follows:
+
+In the ABO blood group system, there are three alleles at the IAIO locus: IA, IB, and IO. The combination of these alleles results in different oligosaccharides on the surface of red blood cells, which determine compatibility or incompatibility in blood transfusions. For example, individuals with the genotype IAIB have both the A and B antigens on their red blood cells, while those with the genotype IAIO have neither A nor B antigen.
+
+Therefore, in this context, the term ""codominance"" is not entirely accurate, as each allele at the ABO locus produces a different phenotypic effect (oligosaccharide composition) that determines blood group compatibility. However, the concept of codominance still applies to some extent, as both A and B antigens are present on the surface of red blood cells in individuals with the genotype IAIB, even though they have different effects.
+
+In summary, while the term ""codominance"" is not entirely appropriate in this context, it can still be applied to some extent to describe the inheritance of multiple alleles at a single locus and their resulting phenotypic effects in the ABO blood group system.",False,True

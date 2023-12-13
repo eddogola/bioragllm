@@ -1,0 +1,54 @@
+0,"_____ cells contain two copies of each chromosome, while ____ cells contain one copy of each chromosome","1. haploid; diploid 
+2. diploid; haploid 
+3. monoploid; diploid","Give the correct answer choice number to the following question
+_____ cells contain two copies of each chromosome, while ____ cells contain one copy of each chromosome
+ 1. haploid; diploid 
+2. diploid; haploid 
+3. monoploid; diploid","
+Meiosis II is the process by which each product of meiosis I divides further to form two haploid gametes. The end result of meiosis II is four haploid gametes, each with one copy of each chromosomal DNA molecule. This process results in genetic diversity among the products of meiosis due to crossing over and independent assortment. Crossing over is when segments of homologous chromosomes are exchanged between non-sister chromatids, while independent assortment is the random sorting of genes during the formation of gametes. This ensures that each gamete receives a unique combination of genetic material, leading to genetic diversity among offspring. Meiosis II is similar to mitosis in terms of the separation of sister chromatids into daughter nuclei but differs due to crossing over and independent assortment during meiosis I.",True,True
+1,"During meiosis, duplicated chromosomes are called _______.","1. homologous chromosomes
+2. sister chromatids
+3. autosomes
+4. sex chromosomes 
+5. alleles","Give the correct answer choice number to the following question
+During meiosis, duplicated chromosomes are called _______.
+ 1. homologous chromosomes
+2. sister chromatids
+3. autosomes
+4. sex chromosomes 
+5. alleles","
+Activity 11.5 Images of Meiosis (continued)
+[www.Life11e.com/ac11.5 meiosis I See meiosis. The stages of meiosis are:](www.Life11e.com/ac11.5 meiosis I See meiosis. The stages of meiosis are:)
+a. Homologous chromosomes separate, each consisting of a single chromatid. (This process is called equational division and is seen only in meiosis I.)
+b. Crossing over occurs during prophase I, leading to the mixing of genetic material from both homologous chromosomes. This results in new combinations of alleles that will be passed on to the next generation through meiosis II.
+
+file\_path: /Users/ogola/tinyml/project/bioragllm/ps5/data/12\_1.txt",False,True
+2,Which of the following statements about meiosis are true? Select all that apply.,"1. homologous chromosomes are separated during the first meiotic division 
+2. sister chromatids are separated during the second meiotic division
+3. a single diploid cell undergoing meiosis can produce four haploid cells 
+4. homologous chromosomes contain the same genes, but can have different
+alleles","Give the correct answer choice number to the following question
+Which of the following statements about meiosis are true? Select all that apply.
+ 1. homologous chromosomes are separated during the first meiotic division 
+2. sister chromatids are separated during the second meiotic division
+3. a single diploid cell undergoing meiosis can produce four haploid cells 
+4. homologous chromosomes contain the same genes, but can have different
+alleles","
+During meiosis, homologous chromosomes separate by independent assortment. This means that each chromosome behaves independently of its homolog and its two chromatids are sent to opposite poles during anaphase. However, genes at different loci on the same chromosome do sometimes separate from one another during meiosis. This occurs when two homologous chromosomes physically exchange corresponding segments during prophase I of meiosis, resulting in recombination. Recombination accounts for why linked alleles are not always inherited together and can occur at any point along the length of the chromosome. Usually, several exchange events occur along the length of each homologous pair. When crossing over takes place between two linked genes, not all the progeny of a cross have the parental phenotypes. Instead, recombinant offspring appear as well, in proportions called recombinant frequencies. Recombinant frequencies will be greater for loci that are farther apart on the chromosome than for loci that are closer together because an exchange event is more likely to occur between genes that are far apart.",False,False
+3,Which statements about dominant and recessive phenotypes are true? Select all that apply.,"1. Dominant phenotypes are always wild-type while recessive phenotypes are caused by mutations.
+2. Dominant phenotypes are expressed in both homozygotes and heterozygotes. 
+3. Recessive phenotypes are only expressed in heterozygotes and not in homozygotes.
+4. Homozygosity and heterozygosity only apply to diploid organisms and not to haploid organisms.","Give the correct answer choice number to the following question
+Which statements about dominant and recessive phenotypes are true? Select all that apply.
+ 1. Dominant phenotypes are always wild-type while recessive phenotypes are caused by mutations.
+2. Dominant phenotypes are expressed in both homozygotes and heterozygotes. 
+3. Recessive phenotypes are only expressed in heterozygotes and not in homozygotes.
+4. Homozygosity and heterozygosity only apply to diploid organisms and not to haploid organisms.","
+1. In this case, it is not possible to determine the genotypes of the parents based on the given information. The table only shows the offspring phenotypes and not enough information about the parents' genotypes.
+2. Since no data is provided in the text for this question, I cannot provide an answer.",False,True
+4,"iA , iB , and iO are three possible genotypes of the ABO gene.","1. True
+2. False","Give the correct answer choice number to the following question
+iA , iB , and iO are three possible genotypes of the ABO gene.
+ 1. True
+2. False","
+In the context of genetics, a gene is a segment of DNA that carries the instructions for making a specific protein or RNA molecule. Genes are located on chromosomes and consist of a sequence of nucleotide bases (A, C, G, T). The combination of these bases determines the genetic information an organism inherits from its parents. Genes control various traits in living beings, including physical and",True,True

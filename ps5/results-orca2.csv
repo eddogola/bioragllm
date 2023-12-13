@@ -1,0 +1,53 @@
+0,"_____ cells contain two copies of each chromosome, while ____ cells contain one copy of each chromosome","1. haploid; diploid 
+2. diploid; haploid 
+3. monoploid; diploid","Give the correct answer choice number to the following question
+_____ cells contain two copies of each chromosome, while ____ cells contain one copy of each chromosome
+ 1. haploid; diploid 
+2. diploid; haploid 
+3. monoploid; diploid","During meiosis, homologous chromosomes separate by independent assortment. In humans, there are 23 pairs of chromosomes, and they come from both the mother and father. During mitosis, each chromosome behaves independently of its homolog, and its two chromatids are sent to opposite poles during anaphase. Meiosis is a different process than mitosis that involves genetic recombination through crossing over between homologous chromosomes, resulting in genetically diverse offspring. In meiosis, the organism goes through two rounds of cell division: prophase I and meiosis II. Prophase I involves the pairing of homologous chromosomes, and during this stage, crossing over can occur, leading to new combinations of genetic information on the recombinant chromosomes. Meiosis takes much longer than mitosis and is involved in reproduction.",False,True
+1,"During meiosis, duplicated chromosomes are called _______.","1. homologous chromosomes
+2. sister chromatids
+3. autosomes
+4. sex chromosomes 
+5. alleles","Give the correct answer choice number to the following question
+During meiosis, duplicated chromosomes are called _______.
+ 1. homologous chromosomes
+2. sister chromatids
+3. autosomes
+4. sex chromosomes 
+5. alleles","Cells in a pea leaf have 14 chromosomes. During meiosis, each cell divides to produce four haploid gametes, each with half the number of chromosomes as the original cell. Therefore, in each gamete, there are 7 chromosomes (14 chromosomes / 2).",True,False
+2,Which of the following statements about meiosis are true? Select all that apply.,"1. homologous chromosomes are separated during the first meiotic division 
+2. sister chromatids are separated during the second meiotic division
+3. a single diploid cell undergoing meiosis can produce four haploid cells 
+4. homologous chromosomes contain the same genes, but can have different
+alleles","Give the correct answer choice number to the following question
+Which of the following statements about meiosis are true? Select all that apply.
+ 1. homologous chromosomes are separated during the first meiotic division 
+2. sister chromatids are separated during the second meiotic division
+3. a single diploid cell undergoing meiosis can produce four haploid cells 
+4. homologous chromosomes contain the same genes, but can have different
+alleles","The original answer does not provide relevant information to the query. Therefore, I will refine it based on the new context.
+
+Meiosis is a specialized type of cell division that occurs in sexually reproducing organisms. It involves two consecutive divisions: meiosis I and meiosis II. In meiosis I, homologous chromosomes pair up and undergo recombination or crossing over, which increases genetic diversity by swapping segments of DNA between the homologous chromosomes. Then, the chromosomes are separated into two daughter cells, each with one copy of each chromosome.
+
+In meiosis II, each product of meiosis I (the diploid cell) divides further to form four haploid gametes, each containing one copy of each chromosome. This process ensures that the resulting gametes have only half the number of chromosomes as the original parent cell and contributes to genetic diversity through independent assortment, which is the random allocation of homologous pairs between daughter cells during meiosis I.
+
+In summary, meiosis is a process of cell division that produces haploid gametes with half the number of chromosomes as the parent cell, and it increases genetic diversity through recombination, crossing over, and independent assortment.",False,False
+3,Which statements about dominant and recessive phenotypes are true? Select all that apply.,"1. Dominant phenotypes are always wild-type while recessive phenotypes are caused by mutations.
+2. Dominant phenotypes are expressed in both homozygotes and heterozygotes. 
+3. Recessive phenotypes are only expressed in heterozygotes and not in homozygotes.
+4. Homozygosity and heterozygosity only apply to diploid organisms and not to haploid organisms.","Give the correct answer choice number to the following question
+Which statements about dominant and recessive phenotypes are true? Select all that apply.
+ 1. Dominant phenotypes are always wild-type while recessive phenotypes are caused by mutations.
+2. Dominant phenotypes are expressed in both homozygotes and heterozygotes. 
+3. Recessive phenotypes are only expressed in heterozygotes and not in homozygotes.
+4. Homozygosity and heterozygosity only apply to diploid organisms and not to haploid organisms.","If a red-eyed female was crossed with a white-eyed male and there were white-eyed males in the offspring, the genotype of the red-eyed female could be either XRXR or XRxy. In the reciprocal cross, where a white-eyed female (XrXr) was mated with a red-eyed male (XRY), the results were unexpected: all the sons had white eyes and all the daughters had red eyes. This is because the sons inherited their only X chromosome from their white-eyed mother, making them hemizygous for the white allele, while the daughters inherited an X chromosome with both the R and r alleles from their parents, making them red-eyed heterozygotes.",False,False
+4,"iA , iB , and iO are three possible genotypes of the ABO gene.","1. True
+2. False","Give the correct answer choice number to the following question
+iA , iB , and iO are three possible genotypes of the ABO gene.
+ 1. True
+2. False","The original answer is:
+
+In 1876, Charles Darwin reported that when he crossed two different true-breeding, homozygous genetic strains of corn, the offspring were 25 percent taller than either of the parent strains. This phenomenon is known as hybrid vigor, which results from new gene combinations and interactions in the offspring. In 1908, George Shull ""rediscovered"" this idea, reporting that not just plant height but the weight of the corn grain produced was dramatically higher in the offspring (Figure 12.12).
+
+Refined Answer: The parents' possible genotypes were Yy for the yellow retriever and Eb for the brown retriever, as this combination resulted in a Bb black puppy due to epistasis between the E and B genes.",False,True
